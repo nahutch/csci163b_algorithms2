@@ -15,13 +15,13 @@ vertex1_in_edge_1 vertex2_in_edge_1
 vertex1_in_edge_n vertex2_in_edge_n
 
 
-so the file containing
+so the file containing:
 
-3 2
-a b c
-a b
-a c
-b c
+3 2 /
+a b c /
+a b /
+a c /
+b c /
 
 looks like a triangle with verticies a, b, and c.
 
