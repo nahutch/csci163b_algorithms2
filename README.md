@@ -8,20 +8,20 @@ Then each following line contains two vertecies that share an edge
 
 each file looks like:
 
-number_of_verticies number_of_edges /n
-vertex_1 vertex_2 ..... vertex_m /n
-vertex1_in_edge_1 vertex2_in_edge_1 /n
+number_of_verticies number_of_edges /
+vertex_1 vertex_2 ..... vertex_m /
+vertex1_in_edge_1 vertex2_in_edge_1 /
 ...
-vertex1_in_edge_n vertex2_in_edge_n /n
+vertex1_in_edge_n vertex2_in_edge_n /
 
 
 so the file containing:
 
-3 2 /n
-a b c /n
-a b /n
-a c /n
-b c /n
+3 2 /
+a b c /
+a b /
+a c /
+b c /
 
 looks like a triangle with verticies a, b, and c.
 
