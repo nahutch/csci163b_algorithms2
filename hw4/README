@@ -1,1 +1,1 @@
-This program augments the Floyd-Warshall algoritm to find the shortest path from any one vertex to another 
+This program augments the Floyd-Warshall algoritm to find the shortest path in a digraph from any one vertex to another 
